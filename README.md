@@ -9,7 +9,7 @@ It uses **PromptTemplate**, **StringParser**, and **LangServe** to provide a fas
 
 Add your JPG image here:
 
-![Project Preview](<img width="815" height="535" alt="Image" src="https://github.com/user-attachments/assets/8d6c3244-7f1e-412a-8969-42c6f0e71455" />)
+![chain invoke api call](https://github.com/user-attachments/assets/42264db8-e976-4806-a229-be1a9ae7dfb1)
 
 > Replace the URL with your actual JPG link.
 
