@@ -5,9 +5,7 @@ It uses **PromptTemplate**, **StringParser**, and **LangServe** to provide a fas
 
 ---
 
-## 🖼️ Project Image (Optional)
-
-Add your JPG image here:
+## 🖼️ Chain invoke api call
 
 ![chain invoke api call](https://github.com/user-attachments/assets/42264db8-e976-4806-a229-be1a9ae7dfb1)
 
