@@ -9,8 +9,6 @@ It uses **PromptTemplate**, **StringParser**, and **LangServe** to provide a fas
 
 ![chain invoke api call](https://github.com/user-attachments/assets/42264db8-e976-4806-a229-be1a9ae7dfb1)
 
-> Replace the URL with your actual JPG link.
-
 ---
 
 ## 🚀 Features
@@ -25,3 +23,4 @@ It uses **PromptTemplate**, **StringParser**, and **LangServe** to provide a fas
 ## 🛠️ Installation
 ```bash
 pip install -r requirements.txt
+python serve.py
